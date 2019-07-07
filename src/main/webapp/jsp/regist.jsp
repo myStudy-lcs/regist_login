@@ -27,7 +27,7 @@
 			</tr>
 			<!--  -->
 			<tr>
-				<td><input type="submit" value="登录"></td>
+				<td><input type="submit" value="注册"></td>
 			</tr>
 		</table>
 	</form>
