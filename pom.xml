@@ -30,7 +30,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <!-- JUnit测试版本号(最新) -->
-      <version>4.12</version>
+      <version>4.13.1</version>
       <!-- 表示在测试时间引入,发布时间不会加载此包 -->
       <scope>test</scope>
     </dependency>
