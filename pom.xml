@@ -18,7 +18,7 @@
     <!-- Spring/SpringMvc版本号 -->
     <spring.version>4.3.10.RELEASE</spring.version>
     <!-- Mybatis版本号 -->
-    <mybatis.version>3.4.1</mybatis.version>
+    <mybatis.version>3.5.6</mybatis.version>
     <!-- Log4j日志文件管理包版本 -->
     <log4j.version>1.2.17</log4j.version>
     <!-- slf4j版本号 -->
